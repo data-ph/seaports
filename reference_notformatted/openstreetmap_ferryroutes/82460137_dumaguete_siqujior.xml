@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (32250 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="82460137" visible="true" version="6" changeset="47579584" timestamp="2017-04-08T21:29:48Z" user="4b696d" uid="1420318">
+  <nd ref="959785483"/>
+  <nd ref="4448862559"/>
+  <nd ref="4783647488"/>
+  <nd ref="4448862562"/>
+  <nd ref="4742887806"/>
+  <nd ref="421702908"/>
+  <nd ref="421702910"/>
+  <nd ref="421702912"/>
+  <nd ref="268430752"/>
+  <tag k="name" v="Dumaguete - Tagbilaran"/>
+  <tag k="route" v="ferry"/>
+  <tag k="vehicle" v="yes"/>
+ </way>
+</osm>

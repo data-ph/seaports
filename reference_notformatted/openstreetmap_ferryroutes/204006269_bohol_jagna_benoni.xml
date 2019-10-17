@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (12760 thorn-03.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="204006269" visible="true" version="8" changeset="47828085" timestamp="2017-04-16T01:14:09Z" user="dmgroom_ct" uid="437598">
+  <nd ref="527866202"/>
+  <nd ref="4719672679"/>
+  <nd ref="4719672680"/>
+  <nd ref="4719672681"/>
+  <nd ref="2140177195"/>
+  <nd ref="2140177188"/>
+  <nd ref="2140177193"/>
+  <nd ref="2140177183"/>
+  <nd ref="4719686663"/>
+  <nd ref="2140177199"/>
+  <nd ref="2140177203"/>
+  <nd ref="2140177202"/>
+  <nd ref="4719681866"/>
+  <nd ref="4719682933"/>
+  <nd ref="279366323"/>
+  <tag k="name" v="Jagna - Benoni"/>
+  <tag k="route" v="ferry"/>
+ </way>
+</osm>

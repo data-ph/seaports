@@ -1,0 +1,14 @@
+
+
+name=*
+operator=supershuttle
+network=*
+ref=01
+from=CEBU-HAGNAYA
+to=BANTAYAN-SANTAFE
+motorcar=Y
+foot=Y
+hgv=Y
+
+duration=40M
+ferry=Y

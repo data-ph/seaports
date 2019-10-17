@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (21530 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="675863078" visible="true" version="1" changeset="67998611" timestamp="2019-03-10T19:10:31Z" user="Antonio Eugenio Burriel" uid="24070">
+  <nd ref="959785483"/>
+  <nd ref="6329531383"/>
+  <nd ref="6329531384"/>
+  <nd ref="6329535285"/>
+  <nd ref="6329535286"/>
+  <nd ref="6329535287"/>
+  <nd ref="6329535288"/>
+  <nd ref="6329535289"/>
+  <nd ref="6329535290"/>
+  <nd ref="6329535291"/>
+  <nd ref="6329535292"/>
+  <nd ref="6329535293"/>
+  <nd ref="6329535294"/>
+  <nd ref="6329535295"/>
+  <nd ref="6329535296"/>
+  <nd ref="6329535297"/>
+  <nd ref="6329535298"/>
+  <nd ref="6329535299"/>
+  <nd ref="6329535300"/>
+  <nd ref="6329535301"/>
+  <nd ref="6329535302"/>
+  <nd ref="6329535303"/>
+  <nd ref="6329535304"/>
+  <nd ref="6329535305"/>
+  <nd ref="6329535306"/>
+  <nd ref="6329535307"/>
+  <nd ref="6329535308"/>
+  <nd ref="6329535309"/>
+  <nd ref="6329535310"/>
+  <nd ref="600288755"/>
+  <tag k="booking" v="yes"/>
+  <tag k="duration" v="02:00"/>
+  <tag k="fee" v="yes"/>
+  <tag k="foot" v="yes"/>
+  <tag k="name" v="Tagbilaran→Cebu"/>
+  <tag k="route" v="ferry"/>
+  <tag k="website" v="https://supercat.com.ph/"/>
+ </way>
+</osm>

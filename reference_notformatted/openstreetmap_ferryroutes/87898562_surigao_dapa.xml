@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (2995 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="87898562" visible="true" version="14" changeset="72833761" timestamp="2019-07-31T01:08:37Z" user="Timmy_Tesseract" uid="5653955">
+  <nd ref="1021703341"/>
+  <nd ref="6662992844"/>
+  <nd ref="6662992857"/>
+  <nd ref="6662992855"/>
+  <nd ref="6662992856"/>
+  <nd ref="4740027125"/>
+  <nd ref="4740027121"/>
+  <nd ref="6662992860"/>
+  <nd ref="6662992853"/>
+  <nd ref="4740027123"/>
+  <nd ref="6662992854"/>
+  <nd ref="6662992852"/>
+  <nd ref="6662992858"/>
+  <nd ref="6662992859"/>
+  <nd ref="6662992845"/>
+  <nd ref="6662992846"/>
+  <nd ref="6662992848"/>
+  <nd ref="6662992847"/>
+  <nd ref="1021727971"/>
+  <nd ref="6662992849"/>
+  <nd ref="1021727972"/>
+  <nd ref="6662992851"/>
+  <nd ref="6662992850"/>
+  <nd ref="3513099309"/>
+  <nd ref="6662992840"/>
+  <nd ref="6662992839"/>
+  <nd ref="3393530190"/>
+  <nd ref="6662992838"/>
+  <nd ref="1021727976"/>
+  <nd ref="3394026098"/>
+  <tag k="name" v="Surigao - Dapa (ferry)"/>
+  <tag k="route" v="ferry"/>
+  <tag k="vehicle" v="yes"/>
+ </way>
+</osm>

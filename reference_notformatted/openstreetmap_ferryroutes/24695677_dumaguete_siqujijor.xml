@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (3002 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="24695677" visible="true" version="17" changeset="46186687" timestamp="2017-02-18T08:15:54Z" user="Interpubli" uid="4706904">
+  <nd ref="582448189"/>
+  <nd ref="616242029"/>
+  <nd ref="616242030"/>
+  <nd ref="959785947"/>
+  <nd ref="268430782"/>
+  <tag k="name" v="Dumaguete - Siquijor"/>
+  <tag k="route" v="ferry"/>
+  <tag k="vehicle" v="no"/>
+ </way>
+</osm>

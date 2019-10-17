@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (3009 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="208676506" visible="true" version="3" changeset="67488680" timestamp="2019-02-23T08:48:06Z" user="Dashred" uid="5240180">
+  <nd ref="313325260"/>
+  <nd ref="4816876561"/>
+  <nd ref="4816876562"/>
+  <nd ref="4816876563"/>
+  <nd ref="4816876564"/>
+  <nd ref="2189486303"/>
+  <nd ref="2189486302"/>
+  <nd ref="2189486301"/>
+  <nd ref="311994262"/>
+  <tag k="name" v="Super Shuttle Ferry Bogo to Polompon"/>
+  <tag k="note" v="My GPS stopped working, so I don´t have the exact Pier at Palompon"/>
+  <tag k="route" v="ferry"/>
+  <tag k="source" v="gps"/>
+ </way>
+</osm>

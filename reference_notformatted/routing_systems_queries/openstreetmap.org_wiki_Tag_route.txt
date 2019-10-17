@@ -1,0 +1,54 @@
+https://wiki.openstreetmap.org/wiki/Tag:route%3Dferry
+
+
+amenity=ferry_terminal
+
+name=*
+operator=*
+network=*
+ref=*
+from=*
+to=*
+motorcar=*
+foot=*
+hgv=*
+
+duration=*
+ferry=*
+
+
+
+
+
+name=*
+operator=*
+ref=*
+motorcar=*
+foot=*
+hgv=*
+
+Key	Value	Comment
+route	ferry	(mandatory)
+motor_vehicle	yes / no	Whether the ferry allows motor vehicles (trucks, cars, motorcycles, ...).
+hgv	yes / no	Whether the ferry allows heavy goods vehicles (freight trucks >3.5 tons).
+motorcar	yes / no	Whether the ferry allows motorcars.
+motorcycle	yes / no	Whether the ferry allows motorcycles.
+bicycle	yes / no	Whether the ferry allows cyclists.
+foot	yes / no	Whether the ferry allows foot passengers.
+wheelchair	yes / no	Whether you can board in a wheelchair.
+motorcycle	yes / no	(mandatory)
+access	*	For other access restriction tags. Also see Map Features#Restrictions.
+operator	operator	Name of the company that operates the route.
+name	individual name	The name of the route or line.
+ref	reference	The reference number/code of a ferry route.
+duration	duration	highly recommended for indicating how long the route takes ('00:05' is 5 minutes, '1:15' an hour fifteen, or '48:00' two days). Important to avoid large detours to avoid ferries for routers that underestimate the speed of ferries. OSRM and GraphHopper support this tag (on ways). Use HH:MM:SS, H:MM:SS, HH:MM, H:MM, MM, or M format.
+interval	service interval	recommended for indicating how often services run on the ferry route. Use HH:MM:SS, H:MM:SS, HH:MM, H:MM, MM, or M format. Example: A ferry that runs every half hour is given the tag interval=00:30 (interval=30 or interval=00:30:00 are also valid).
+fee/toll	yes / no	if you have to pay to cross. Both keys are of very similar popularity, about 500 uses as of 2019[1], see https://lists.openstreetmap.org/pipermail/tagging/2019-June/thread.html#46121 for discussion which tag is preferable
+opening_hours	opening_hours	when can you expect the service to be active? (only if the ferry operates on a regular schedule)
+reservation	yes / no / only	yes: reservation / booking possible to avoid long waiting times and/or ensure service will run, no: first come, first serve, only: no passage without a reservation / booking.
+ferry	*	for the type of road the ferry route belongs to (used with the same values as highway=*).
+ferry:cable	yes	Reaction ferry
+maxweight	*	Maximum weight of a vehicule.
+maxlength	*	Maximum length of a vehicule.
+maxwidth	*	Maximum width of a vehicule.
+maxheight	*	Maximum height of a vehicule.

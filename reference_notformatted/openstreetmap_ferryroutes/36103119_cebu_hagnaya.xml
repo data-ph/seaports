@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (3001 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="36103119" visible="true" version="7" changeset="67559179" timestamp="2019-02-25T19:06:14Z" user="Antonio Eugenio Burriel" uid="24070">
+  <nd ref="598494678"/>
+  <nd ref="598494683"/>
+  <nd ref="598494682"/>
+  <nd ref="598494681"/>
+  <nd ref="421682121"/>
+  <nd ref="421682122"/>
+  <nd ref="953343714"/>
+  <nd ref="421682125"/>
+  <nd ref="421682126"/>
+  <nd ref="953343732"/>
+  <nd ref="953343733"/>
+  <nd ref="421682127"/>
+  <nd ref="953343738"/>
+  <nd ref="953343742"/>
+  <nd ref="421682128"/>
+  <nd ref="953343745"/>
+  <nd ref="953343746"/>
+  <tag k="duration" v="01:15"/>
+  <tag k="fee" v="yes"/>
+  <tag k="ferry" v="trunk"/>
+  <tag k="foot" v="yes"/>
+  <tag k="motor_vehicle" v="yes"/>
+  <tag k="name" v="Hagnaya - Santa Fe"/>
+  <tag k="route" v="ferry"/>
+ </way>
+</osm>

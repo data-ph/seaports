@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (32252 thorn-02.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <way id="451990840" visible="true" version="3" changeset="51478750" timestamp="2017-08-27T10:51:33Z" user="dmgroom_ct" uid="437598">
+  <nd ref="4487939633"/>
+  <nd ref="4487939634"/>
+  <nd ref="4487939635"/>
+  <nd ref="4487939636"/>
+  <nd ref="4487939637"/>
+  <nd ref="4487939638"/>
+  <nd ref="4487939639"/>
+  <nd ref="4487939640"/>
+  <nd ref="4487939641"/>
+  <nd ref="4487939642"/>
+  <nd ref="4487939643"/>
+  <nd ref="4487939644"/>
+  <nd ref="4487939645"/>
+  <nd ref="4487939646"/>
+  <nd ref="4487939647"/>
+  <nd ref="4487939648"/>
+  <nd ref="4487939649"/>
+  <nd ref="4487939650"/>
+  <nd ref="4487939651"/>
+  <nd ref="4487939652"/>
+  <nd ref="4487939653"/>
+  <nd ref="4487939654"/>
+  <nd ref="4487939655"/>
+  <nd ref="4487939656"/>
+  <nd ref="4487939657"/>
+  <nd ref="4487939658"/>
+  <nd ref="4487939659"/>
+  <nd ref="4487939660"/>
+  <nd ref="4487939661"/>
+  <nd ref="4487939662"/>
+  <nd ref="4487939663"/>
+  <nd ref="4487939664"/>
+  <nd ref="4487939665"/>
+  <nd ref="4487939666"/>
+  <nd ref="4487939667"/>
+  <nd ref="4487939668"/>
+  <nd ref="4487939669"/>
+  <nd ref="4487939670"/>
+  <nd ref="4487939671"/>
+  <nd ref="4487939672"/>
+  <nd ref="4487939673"/>
+  <nd ref="4487939674"/>
+  <nd ref="4487939675"/>
+  <nd ref="4487939676"/>
+  <nd ref="4487939677"/>
+  <nd ref="3690295664"/>
+  <nd ref="3690295665"/>
+  <nd ref="4487939678"/>
+  <nd ref="4487939679"/>
+  <nd ref="3690295666"/>
+  <nd ref="3690293715"/>
+  <tag k="foot" v="yes"/>
+  <tag k="motor_vehicle" v="no"/>
+  <tag k="name" v="To Kalanggaman Island"/>
+  <tag k="route" v="ferry"/>
+  <tag k="source" v="Schadow1 Expeditions"/>
+  <tag k="source:device" v="Garmin GPSMap 62s"/>
+  <tag k="survey:date" v="2016-11-02"/>
+ </way>
+</osm>
